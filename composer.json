@@ -1,0 +1,16 @@
+{
+    "name": "twig/quest",
+    "license": "",
+    "authors": [
+        {
+            "name": "DIERICK Dewi",
+            "email": "dierickd@outlook.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
